@@ -1,0 +1,22 @@
+.container {
+  width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  flex-wrap: wrap; /* Quando os itens ultrapassarem a largura de 1200px, ira haver uma quebra de linha */
+}
+
+/* classe help */
+
+.min-height {
+  min-height: 75%;
+}
+
+.start {
+  justify-content: flex-start;
+}
+
+.column {
+  flex-direction: column;
+  justify-content: flex-start;
+}
