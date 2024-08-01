@@ -1,34 +1,12 @@
 {
   "projects": [
     {
-      "id": "a09d",
-      "name": "Ifood",
-      "budget": "15000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
       "id": "6c47",
       "name": "Mercado",
       "budget": "10000",
       "category": {
         "id": "4",
         "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "9623",
-      "name": "Padaria Online",
-      "budget": "20000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": []
