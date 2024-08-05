@@ -8,19 +8,15 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "2aed",
-      "name": "Ifood",
-      "budget": "20000",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": []
+      "cost": 3000,
+      "services": [
+        {
+          "name": "testando novo servico",
+          "cost": "3000",
+          "description": "test2",
+          "id": "efa8376a-f274-4720-ac7c-dbf6bae51f02"
+        }
+      ]
     }
   ],
   "categories": [
